@@ -9,4 +9,5 @@ function add($a, $b) {
 }
 
 echo "2 + 3 = " . add(2, 3) . "\n";
+echo "Learning GitHub Actions is fun!\n";
 ?>
