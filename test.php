@@ -1,7 +1,7 @@
 <?php
 require_once 'hello.php';
 
-// Viết một số test đơn giản
+// Write some simple tests
 $result = add(5, 7);
 if ($result === 12) {
     echo "Test passed: 5 + 7 = 12\n";

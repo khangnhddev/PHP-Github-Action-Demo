@@ -3,7 +3,7 @@ echo "Hello from GitHub Actions!\n";
 echo "Today is: " . date('Y-m-d H:i:s') . "\n";
 echo "PHP version: " . phpversion() . "\n";
 
-// Thêm một hàm đơn giản để kiểm tra
+// Add a simple function for testing
 function add($a, $b) {
     return $a + $b;
 }

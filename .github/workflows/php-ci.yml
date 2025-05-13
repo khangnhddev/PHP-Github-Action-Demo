@@ -5,7 +5,7 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  # Cho phép chạy workflow thủ công từ tab Actions
+  # Allow manual workflow runs from the Actions tab
   workflow_dispatch:
 
 jobs:
